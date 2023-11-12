@@ -15,7 +15,7 @@ namespace LB5
     {
         public string Access_token { get; set; }
         public string UserID { get; set; }
-        string appId = "51788560";
+        string appId = "";
         public MainWindow()
         {
             InitializeComponent();
